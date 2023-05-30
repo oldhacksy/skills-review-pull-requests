@@ -91,7 +91,7 @@ Next, wait about 20 seconds for actions to run, then refresh this course's READM
   Define terms and link to docs.github.com.
   Historic note: this step combines the commend, approve, and needs changes steps from the previous version.
 -->
-
+There we go
 <details id=2 open>
 <summary><h2>Step 2: Assign yourself</h2></summary>
 
